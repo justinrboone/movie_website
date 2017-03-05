@@ -1,7 +1,7 @@
 # Movie Website
 Create and open a web site containing a list of my favorite movies
 
-# Quick Start
+## Quick Start
 1. Download all files from this GitHub repository into the same directory
 2. Open the file _entertainment_center.py_ in IDLE and run the program
 
