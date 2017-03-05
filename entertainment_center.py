@@ -39,7 +39,8 @@ force_awakens = media.Movies("Star Wars: The Force Awakens",
                              "https://www.youtube.com/watch?v=UitsQDWSlUg")
 
 # Add all movie obects to an array
-movies = [the_phantom_menace, attack_of_the_clones, revenge_of_the_sith, star_wars, empire_strikes_back, reture_of_the_jedi, force_awakens]
+movies = [the_phantom_menace, attack_of_the_clones, revenge_of_the_sith, 
+          star_wars, empire_strikes_back, reture_of_the_jedi, force_awakens]
 
 # Create and open movie web site using objects from the movies array
 fresh_tomatoes.open_movies_page(movies)
