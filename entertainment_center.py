@@ -38,7 +38,7 @@ force_awakens = media.Movies("Star Wars: The Force Awakens",
                              "http://t0.gstatic.com/images?q=tbn:ANd9GcT6nGxj1D4P-9EiVSY32sb6Ql-XQrbeK5FgM37UI6QxcZwfcfVw",
                              "https://www.youtube.com/watch?v=UitsQDWSlUg")
 
-# Add all movie obects to an array
+# Add all movie obects to a list
 movies = [the_phantom_menace, attack_of_the_clones, revenge_of_the_sith, 
           star_wars, empire_strikes_back, reture_of_the_jedi, force_awakens]
 
