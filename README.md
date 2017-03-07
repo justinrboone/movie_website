@@ -9,4 +9,4 @@ Create and open a web site containing a list of my favorite movies
 
 ## Instructions
 1. Upon running the program, the movie website will launch in your default browser
-2. Click on any movie poster to watch a trailer on YouTube
+2. Click on any movie poster to watch the movie's trailer on YouTube
