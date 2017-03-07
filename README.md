@@ -1,5 +1,5 @@
 # Movie Website
-Create and open a web site containing a list of my favorite movies
+This program creates and opens a web site containing a list of my favorite movies and allows the user to watch the movie trailer.
 
 ## Installation
 1. Download all files from this repository into the same directory on your machine
